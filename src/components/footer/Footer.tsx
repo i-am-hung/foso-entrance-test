@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="relative text-[#1F2937]">
       <img
-        src="/footer.jpg"
+        src="/images/footer.jpg"
         aria-hidden
         className="absolute inset-0 w-full h-full object-cover pointer-events-none select-none"
       />
@@ -33,7 +33,7 @@ const Footer = () => {
             </p>
             {/* Bộ Công Thương badge */}
             <img
-              src="/bocongthuong.png"
+              src="/images/bocongthuong.png"
               alt="Đã thông báo Bộ Công Thương"
               className="h-12 w-auto mt-6"
             />
