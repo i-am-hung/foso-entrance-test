@@ -5,9 +5,9 @@ import Breadcrumb from "@/components/ui/breadcrumb";
 import { products } from "@/data/products";
 import { categories } from "@/data/categories";
 import ProductCard from "@/components/product/ProductCard";
-import ProductFilters from "@/pages/catalog/components/ProductFilters";
+import ProductFilters from "@/pages/category/components/ProductFilters";
 import HeroSection from "@/components/product/HeroSection";
-import MobileProductFilters from "@/pages/catalog/components/MobileProductFilters";
+import MobileProductFilters from "@/pages/category/components/MobileProductFilters";
 import { Button } from "@/components/ui/button";
 import {
   Select,
